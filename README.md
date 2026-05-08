@@ -13,7 +13,7 @@
 - Estudiante de **Ingeniería de Software** en la **UPM**
 - Apasionado por el desarrollo web y las tecnologías del frontend moderno
 - Actualmente aprendiendo y construyendo con **Astro**, **TypeScript** y **Java**
-- Lenguajes: **Astro** · **TypeScript** · **JavaScript** · **Java** · **C**
+- Lenguajes[nivel-basico]: **Astro** · **TypeScript** · **JavaScript** · **Java** · **C**
 
 ---
 
