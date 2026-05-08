@@ -33,18 +33,36 @@
 
 ---
 
-## Proyectos Destacados
+## 🌐 Proyectos Web
 
 <div align="center">
 
-| 🚀 Proyecto | 🛠 Tech | 📄 Descripción |
+| Proyecto | Tech | Descripción |
 | --- | --- | --- |
 | [**terciosapp**](https://github.com/DanielAparisi/terciosapp) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Aplicación web moderna |
-| [**LigaApp**](https://github.com/DanielAparisi/LigaApp) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Gestión de liga deportiva |
 | [**SintracEngineering**](https://github.com/DanielAparisi/SintracEngineering) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Sitio web empresa de ingeniería |
-| [**ia-agencia-v1**](https://github.com/DanielAparisi/ia-agencia-v1) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Agencia con inteligencia artificial |
 | [**alphaGym**](https://github.com/DanielAparisi/alphaGym) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Landing page para gimnasio |
+| [**LigaApp**](https://github.com/DanielAparisi/LigaApp) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Gestión de liga deportiva |
 | [**portfolio-dev**](https://github.com/DanielAparisi/portfolio-dev) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Portfolio personal de desarrollo |
+| [**Craft-Pizza-Menu**](https://github.com/DanielAparisi/Craft-Pizza-Menu) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Menú interactivo para pizzería |
+| [**ia-agencia-v1**](https://github.com/DanielAparisi/ia-agencia-v1) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Agencia con inteligencia artificial |
+| [**demo-google-api**](https://github.com/DanielAparisi/demo-google-api) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Demo integración Google API |
+
+</div>
+
+---
+
+## 🎓 Proyectos Académicos
+
+<div align="center">
+
+| Proyecto | Tech | Descripción |
+| --- | --- | --- |
+| [**programaccion**](https://github.com/DanielAparisi/programaccion) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) | Prácticas de programación en C |
+| [**fp**](https://github.com/DanielAparisi/fp) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Fundamentos de Programación |
+| [**estructuras-de-datos**](https://github.com/DanielAparisi/estructuras-de-datos) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Estructuras de Datos |
+| [**enunciado-extraordinaria**](https://github.com/DanielAparisi/enunciado-extraordinaria-main) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) | Convocatoria extraordinaria |
+| [**EnunciadoOrdinaria**](https://github.com/DanielAparisi/EnunciadoOrdinaria) | — | Convocatoria ordinaria |
 
 </div>
 
