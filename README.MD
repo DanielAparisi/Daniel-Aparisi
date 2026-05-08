@@ -35,36 +35,18 @@
 
 ---
 
-## Estadísticas de GitHub
-
-<div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAparisi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAparisi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Proyectos Destacados
 
 <div align="center">
 
-[![terciosapp](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=terciosapp&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/terciosapp)
-[![LigaApp](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=LigaApp&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/LigaApp)
-[![SintracEngineering](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=SintracEngineering&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/SintracEngineering)
-[![ia-agencia-v1](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=ia-agencia-v1&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/ia-agencia-v1)
-
-</div>
-
----
-
-## Gráfico de Contribuciones
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielAparisi&theme=tokyo-night&hide_border=true)](https://github.com/DanielAparisi)
+| 🚀 Proyecto | 🛠 Tech | 📄 Descripción |
+| --- | --- | --- |
+| [**terciosapp**](https://github.com/DanielAparisi/terciosapp) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Aplicación web moderna |
+| [**LigaApp**](https://github.com/DanielAparisi/LigaApp) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Gestión de liga deportiva |
+| [**SintracEngineering**](https://github.com/DanielAparisi/SintracEngineering) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Sitio web empresa de ingeniería |
+| [**ia-agencia-v1**](https://github.com/DanielAparisi/ia-agencia-v1) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Agencia con inteligencia artificial |
+| [**alphaGym**](https://github.com/DanielAparisi/alphaGym) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Landing page para gimnasio |
+| [**portfolio-dev**](https://github.com/DanielAparisi/portfolio-dev) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) | Portfolio personal de desarrollo |
 
 </div>
 
