@@ -1,66 +1,79 @@
-# Daniel Aparisi — Perfil de GitHub
+<div align="center">
 
-Estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid**.  
-Apasionado por el desarrollo web, con foco en tecnologías modernas del frontend y proyectos de aplicación real.
+# Hola, soy Daniel Aparisi 👋
+
+### Estudiante de Ingeniería de Software · Universidad Politécnica de Madrid
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+en+formación;Amante+del+Frontend+moderno;Astro+%7C+TypeScript+%7C+JavaScript)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## Sobre mí
 
-- Estudiante de Ingeniería de Software en la UPM
-- Cuenta creada en GitHub: septiembre de 2022
-- Lenguajes principales: **Astro**, **TypeScript**, **JavaScript**, **C**,**Java**
-
----
-
-## Repositorios Destacados
-
-### Proyectos Web (Astro)
-
-| Repositorio | Descripción |
-| --- | --- |
-| [terciosapp](https://github.com/DanielAparisi/terciosapp) | Aplicación web (actualizado mayo 2026) |
-| [SintracEngineering](https://github.com/DanielAparisi/SintracEngineering) | Sitio web para empresa de ingeniería |
-| [alphaGym](https://github.com/DanielAparisi/alphaGym) | Web para gimnasio |
-| [GimnasioAlpha](https://github.com/DanielAparisi/GimnasioAlpha) | Versión alternativa del sitio del gimnasio |
-| [portfolio-dev](https://github.com/DanielAparisi/portfolio-dev) | Portfolio personal de desarrollo web |
-| [astroship](https://github.com/DanielAparisi/astroship) | Starter template para startups y landing pages ([demo](https://astroship.web3templates.com)) |
-| [view-transitions-api-books-demo-main](https://github.com/DanielAparisi/view-transitions-api-books-demo-main) | Demo de la View Transitions API con libros |
-
-### Aplicaciones (TypeScript)
-
-| Repositorio | Descripción |
-| --- | --- |
-| [LigaApp](https://github.com/DanielAparisi/LigaApp) | Aplicación de gestión de liga deportiva |
-| [ia-agencia-v1](https://github.com/DanielAparisi/ia-agencia-v1) | Agencia de inteligencia artificial v1 |
-
-### Proyectos Frontend (JavaScript / CSS)
-
-| Repositorio | Descripción |
-| --- | --- |
-| [Craft-Pizza-Menu](https://github.com/DanielAparisi/Craft-Pizza-Menu) | Menú interactivo para pizzería artesanal |
-| [Pizza-Project](https://github.com/DanielAparisi/Pizza-Project) | Proyecto de diseño web para pizzería |
-
-### Proyectos Académicos
-
-| Repositorio | Descripción |
-| --- | --- |
-| [programaccion](https://github.com/DanielAparisi/programaccion) | Prácticas de programación en C |
-| [enunciado-extraordinaria-main](https://github.com/DanielAparisi/enunciado-extraordinaria-main) | Enunciado de convocatoria extraordinaria (LaTeX) |
-| [EnunciadoOrdinaria](https://github.com/DanielAparisi/EnunciadoOrdinaria) | Enunciado de convocatoria ordinaria |
+- Estudiante de **Ingeniería de Software** en la **UPM**
+- Apasionado por el desarrollo web y las tecnologías del frontend moderno
+- Actualmente aprendiendo y construyendo con **Astro**, **TypeScript** y **Java**
+- Lenguajes: **Astro** · **TypeScript** · **JavaScript** · **Java** · **C**
 
 ---
 
 ## Tecnologías
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<div align="center">
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 
 ---
 
-## Contacto
+## Estadísticas de GitHub
 
-- GitHub: [@DanielAparisi](https://github.com/DanielAparisi)
+<div align="center">
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAparisi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAparisi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Proyectos Destacados
+
+<div align="center">
+
+[![terciosapp](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=terciosapp&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/terciosapp)
+[![LigaApp](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=LigaApp&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/LigaApp)
+[![SintracEngineering](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=SintracEngineering&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/SintracEngineering)
+[![ia-agencia-v1](https://github-readme-stats.vercel.app/api/pin/?username=DanielAparisi&repo=ia-agencia-v1&theme=tokyonight&hide_border=true)](https://github.com/DanielAparisi/ia-agencia-v1)
+
+</div>
+
+---
+
+## Gráfico de Contribuciones
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielAparisi&theme=tokyo-night&hide_border=true)](https://github.com/DanielAparisi)
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DanielAparisi-181717?style=for-the-badge&logo=github)](https://github.com/DanielAparisi)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DanielAparisi&color=58A6FF&style=for-the-badge)
+
+</div>
